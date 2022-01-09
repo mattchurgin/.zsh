@@ -7,6 +7,9 @@ export SCREENDIR=$HOME/.screen
 alias gs='git status'
 alias gc='git commit -m '
 
+alias coa='conda activate '
+alias cod='conda deactivate '
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -124,5 +127,4 @@ else
 fi
 unset __conda_setup
 
-source activate mattdefault
 # <<< conda initialize <<<
