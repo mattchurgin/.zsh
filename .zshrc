@@ -10,7 +10,7 @@ alias gc='git commit -m '
 alias coa='conda activate '
 alias cod='conda deactivate '
 
-export GOOGLE_APPLICATION_CREDENTIALS="/home/mattchurgin/secrets/gcloudauth.json"
+export GOOGLE_APPLICATION_CREDENTIALS='/home/mattchurgin/secrets/dtc-de-course-e6fa062f74b5.json'
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
